@@ -8,7 +8,7 @@ winversion update를 하지않아 발생한 error (img docker_error_1)
 해결법 > 키보드의 window 키 + R 키를 누르고 winver 입력해 현재 윈도우 version check
 
 (img winver)
-
+window ver을 2004로 update
 
 
 <img>
